@@ -1,0 +1,3 @@
+mkdir -p client/src/{assets,components,views,store,router,services,utils}
+mkdir -p client/public 
+mkdir -p server/src/{controllers,models,routes,middleware,services,socket,config,utils} 
